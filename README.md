@@ -37,17 +37,16 @@ Os testes simulam a jornada do usuário, validando que todas as etapas do proces
         E clico em Next para prosseguir para a aba Send Quote
         E preencho o formulario da aba Send Quote
         Então clico em send para enviar email do orçamento
-        
 
-![image](https://github.com/user-attachments/assets/866a46ba-429e-46a1-bec4-f79d6a907975)
-
-Foram validados:
+Foram validados: 
 
 ✔ Cadastro do veículo – **Preenchimento** dos dados do veículo, como marca, modelo e potência.  
 ✔ Informações do segurado – **Preenchimento** dos dados pessoais do usuário, como nome, data de nascimento e endereço.  
 ✔ Detalhes do seguro – **Preenchimento** dos requisitos do seguro, como cobertura e duração do plano.  
 ✔ Escolha do plano – **Preenchimento** da opção de preço conforme as preferências do usuário.  
 ✔ Confirmação do envio do e-mail – **Preenchimento** do formulário e submissão do processo final.  
+![image](https://github.com/user-attachments/assets/866a46ba-429e-46a1-bec4-f79d6a907975)
+
 
 
 
