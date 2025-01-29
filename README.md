@@ -25,26 +25,12 @@ Os testes simulam a jornada do usuário, validando que todas as etapas do proces
 
 **Cenário**: Preencher e submeter os formulários na Automobile Insurance com **dados válidos**
 
-        Dado que acesso o portal da Tricentis
-        Quando clico na opção Automobile
-        E preencho o formulario da aba Enter Vehicle Data
-        E clico em Next para prosseguir para a aba Enter Insurant Data
-        E preencho o formulario da aba Enter Insurant Data
-        E clico em Next para prosseguir para a aba Enter Product Data
-        E preencho o formulario da aba Enter Product Data
-        E clico em Next para prosseguir para a aba Select Price Option
-        E seleciono a opção do preço por ano do seguro
-        E clico em Next para prosseguir para a aba Send Quote
-        E preencho o formulario da aba Send Quote
-        Então clico em send para enviar email do orçamento
+✔ Cadastro do veículo – Inserção dos dados do veículo, como marca, modelo e potência.  
+✔ Informações do segurado – Inserção dos dados pessoais do usuário, como nome, data de nascimento e endereço.  
+✔ Detalhes do seguro – Preenchimento dos requisitos do seguro, como cobertura e duração do plano.  
+✔ Escolha do plano – Seleção da opção de preço conforme as preferências do usuário.  
+✔ Confirmação do orçamento – Envio do e-mail e validação do processo final.
 
-Foram validados: 
-
-✔ Cadastro do veículo – **Preenchimento** dos dados do veículo, como marca, modelo e potência.  
-✔ Informações do segurado – **Preenchimento** dos dados pessoais do usuário, como nome, data de nascimento e endereço.  
-✔ Detalhes do seguro – **Preenchimento** dos requisitos do seguro, como cobertura e duração do plano.  
-✔ Escolha do plano – **Preenchimento** da opção de preço conforme as preferências do usuário.  
-✔ Confirmação do envio do e-mail – **Preenchimento** do formulário e submissão do processo final.  
 ![image](https://github.com/user-attachments/assets/866a46ba-429e-46a1-bec4-f79d6a907975)
 
 
