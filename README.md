@@ -6,15 +6,15 @@ Esta aplicação simula o processo de cotação de seguros automotivos no portal
 
 Este projeto tem como objetivo **automatizar** os testes no fluxo **Automobile**, cobrindo o preenchimento das seguintes etapas:
 
-* Insira os dados do veículo 
+* Enter Vehicle Data
 
-* Insira os dados do segurado
+* Enter Insurant Data
 
-* Insira os dados do produto 
+* Enter Product Data
 
-* Selecione a opção de preço 
+* Select Option Price 
 
-* Enviar orçamento
+* Send Quote
 
 ![image](https://github.com/user-attachments/assets/e067fe2f-e530-4db0-bfca-e80374078b3e)
 
