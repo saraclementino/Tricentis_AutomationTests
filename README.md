@@ -75,6 +75,8 @@ Cypress/
 - **GitHub**: Plataforma utilizada para armazenar e compartilhar o repositório do projeto.  
 - **Page Object Model (POM)**: Padrão de design adotado para estruturar os scripts de automação, organizando as interações em classes específicas para cada página.
 
+## Como Executar os Testes
+
 
 
 
