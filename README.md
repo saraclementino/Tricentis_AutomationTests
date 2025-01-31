@@ -77,6 +77,34 @@ Cypress/
 
 ## Como Executar os Testes
 
+### 1. Clone este repositório:
+```sh
+   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+```
+
+### 2. Acesse o diretório do projeto:
+```sh
+   cd nome-do-repositorio
+```
+
+### 3. Instale as dependências do projeto:
+```sh
+   npm install
+```  
+
+### 4. Para executar os testes no modo interativo, utilize o comando:
+```sh
+   npx cypress open
+```
+
+### 5. Para executar os testes diretamente no terminal, utilize o comando:
+```sh
+   npx cypress run
+```
+
+   
+
+
 
 
 
