@@ -75,29 +75,19 @@ Cypress/
 - **GitHub**: Plataforma utilizada para armazenar e compartilhar o repositório do projeto.  
 - **Page Object Model (POM)**: Padrão de design adotado para estruturar os scripts de automação, organizando as interações em classes específicas para cada página.
 
-## Como Executar os Testes
+## Passos para Executar os Testes Automatizados:
 
-### 1. Clone este repositório:
-```sh
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
-```
-
-### 2. Acesse o diretório do projeto:
-```sh
-   cd nome-do-repositorio
-```
-
-### 3. Instale as dependências do projeto:
+### 1. Instale as dependências do projeto:
 ```sh
    npm install
 ```  
 
-### 4. Para executar os testes no modo interativo, utilize o comando:
+### 2. Para abrir a interface do Cypress e executar os testes no modo interativo, utilize o comando:
 ```sh
    npx cypress open
 ```
 
-### 5. Para executar os testes diretamente no terminal, utilize o comando:
+### 3. Para executar os testes diretamente no terminal, utilize o comando:
 ```sh
    npx cypress run
 ```
